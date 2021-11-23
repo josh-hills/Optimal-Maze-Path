@@ -1,5 +1,4 @@
 ## Table of contents
-## Table of contents
 * [Optimal maze path finder](#optimal-maze-path-finder)
 * [Types of nodes](#types-of-nodes)
 * [Technologies](#technologies)
