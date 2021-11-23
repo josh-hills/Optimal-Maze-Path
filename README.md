@@ -11,6 +11,7 @@ Using A* search find the optimal path from start state S to goal state G, avoid 
 ## Types of nodes
 * S: The start node
 * G: The goal node
+* O: Empty, traversable nodes
 * X: A wall
 * H: A hazard, the hazard and any node beside the hazard shouldn't be traversed.
 
