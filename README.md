@@ -6,7 +6,7 @@
 
 
 ## Optimal maze path finder
-Using A* search find the optimal path from start state S to goal state G, avoid walls and obstacles.
+Using A* search find the optimal path from start state S to goal state G, avoid walls and obstacles. Takes in a m x n csv file, see Examples.
 
 ## Types of nodes
 * S: The start node
