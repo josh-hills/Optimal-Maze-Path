@@ -17,8 +17,8 @@ class node:
             return self.path_cost < other.path_cost
         return self.f_value < other.f_value
 
-input_filepath = './Examples/Example1/input.txt'
-
+#input_filepath = './Examples/Example0/input.txt'
+input_filepath = "./Examples/Example0/input.txt"
 def pathfinding(input_filepath):
     with open(input_filepath) as f:
         maze = f.readlines()
